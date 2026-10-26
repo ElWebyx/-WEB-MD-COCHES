@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://webmdcoches20.vercel.app/sitemap.xml
